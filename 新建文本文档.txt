@@ -1,1 +1,6 @@
 hello world
+
+git clone µØÖ·
+git add .
+git commit -m ''
+git push
